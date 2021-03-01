@@ -22,6 +22,7 @@ namespace DailyReport
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
             string help = Console.ReadLine();
+            bool helpResp = Convert.ToBoolean(help);
 
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
             string feedback = Console.ReadLine();
