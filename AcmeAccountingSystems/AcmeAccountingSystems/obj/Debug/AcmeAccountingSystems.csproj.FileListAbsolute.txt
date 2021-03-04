@@ -5,3 +5,10 @@ C:\Users\Heather\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingS
 C:\Users\Heather\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
 C:\Users\Heather\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
 C:\Users\Heather\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe.config
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.pdb
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csprojAssemblyReference.cache
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
+C:\Users\Heather\Source\Repos\Heather-Hanson\Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
