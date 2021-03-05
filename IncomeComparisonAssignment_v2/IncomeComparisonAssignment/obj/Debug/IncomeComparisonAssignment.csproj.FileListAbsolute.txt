@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe.config
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.pdb
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.exe
+C:\Users\Heather\source\repos\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.pdb
