@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
