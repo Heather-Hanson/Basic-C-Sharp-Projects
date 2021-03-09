@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\bin\Debug\Module11Challenges.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\bin\Debug\Module11Challenges.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\bin\Debug\Module11Challenges.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\obj\Debug\Module11Challenges.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\obj\Debug\Module11Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\obj\Debug\Module11Challenges.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\Module11Challenges\Module11Challenges\obj\Debug\Module11Challenges.pdb
