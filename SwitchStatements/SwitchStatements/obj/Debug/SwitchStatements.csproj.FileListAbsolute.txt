@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

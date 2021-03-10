@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csprojAssemblyReference.cache
