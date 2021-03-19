@@ -1,0 +1,6 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb
