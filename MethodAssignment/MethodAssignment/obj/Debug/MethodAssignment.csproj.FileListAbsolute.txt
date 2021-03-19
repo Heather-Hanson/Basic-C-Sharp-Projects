@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.pdb
