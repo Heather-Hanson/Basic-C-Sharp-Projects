@@ -12,7 +12,7 @@ namespace TwentyOne
         {
             Cards = new List<Card>(); // first thing to do is instantiate the property Cards as an empty list of cards (you need to create the list before you can add values)
             List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" }; // create list for suits
-            List<string> Faces = new List<string>() 
+            List<string> Faces = new List<string>()
             {
                 "Two", "Three", "Four", "Five", "Six", "Seven",
                 "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
@@ -27,9 +27,9 @@ namespace TwentyOne
             // then we add that card to the Cards list we created at the beginning of our constructor.
             // the "card" variable in the loop can be used repeatedly because it only occurs within the loop and nowhere else.
 
-            foreach(string face in Faces)
+            foreach (string face in Faces)
             {
-                foreach(string suit in Suits)
+                foreach (string suit in Suits)
                 {
                     Card card = new Card();
                     card.Suit = suit;
@@ -39,5 +39,23 @@ namespace TwentyOne
             }
         }
         public List<Card> Cards { get; set; }
+
+        public void Shuffle(int times = 1) // instead of overloading methods, we added an optional paramter of int times.
+        {
+            for (int i = 0; i < times; i++)
+            {
+                List<Card> TempList = new List<Card>();
+                Random random = new Random(); //C# class, new instance of it
+
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, Cards.Count);
+                    TempList.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
+                }
+                this.Cards = TempList;
+            }
+
+        }
     }
 }
