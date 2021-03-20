@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\ClassesAndMethodsAssignment3.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\ClassesAndMethodsAssignment3.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\ClassesAndMethodsAssignment3.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.pdb
