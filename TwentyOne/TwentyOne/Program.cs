@@ -10,16 +10,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-
-            game.Players = new List<Player>();
-
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
-
-
             Deck deck = new Deck();
             deck.Shuffle(3);
             //named paramaters would look like: Shuffle(deck: deck, times: 3).  Helps with reading.

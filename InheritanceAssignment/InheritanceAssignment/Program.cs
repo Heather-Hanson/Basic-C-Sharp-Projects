@@ -10,19 +10,28 @@ namespace InheritanceAssignment
     {
         static void Main(string[] args)
         {
-            // instantiate Employee objects
-            Employee employee = new Employee() { FirstName = "Heather", Id = 1234 };
-            Employee employee1 = new Employee() { FirstName = "Jesse", Id = 5678 };
+            //instantiate list string
+            Employee<string> employee = new Employee<string>();
+            employee.Things = new List<string>();
+            employee.Things.Add("Desk");
+            employee.Things.Add("Chair");
 
-            // compare employees using == operator.  It will know to compare the ID of the employees when I do this
-            bool compare = employee == employee1;
+            //instantiate list int
+            Employee<int> employee1 = new Employee<int>();
+            employee1.Things = new List<int>();
+            employee1.Things.Add(1);
+            employee1.Things.Add(3);
 
-            // display result of comparison
-            Console.WriteLine("Heather's ID is {0}, Jesse's is {1}. Do they match? {2}", employee.Id, employee1.Id, compare);
+            //loop through both lists and display values for Things
+            foreach (string thing in employee.Things)
+            {
+                Console.WriteLine(thing);
+            }
+            foreach (int thing in employee1.Things)
+            {
+                Console.WriteLine(thing);
+            }
 
-
-            // call method from inherited class: Person
-            //employee.SayName();
             Console.ReadLine();
 
         }
