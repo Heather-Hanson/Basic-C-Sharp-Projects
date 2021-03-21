@@ -14,7 +14,7 @@ namespace AbstractClassesAssignment
              Console.WriteLine("Name: {0} {1}", FirstName, LastName);
         }
 
-        // Implement Quite interface method
+        // Implement Quit interface method
         public void Quit()
         {
             Console.WriteLine("I, {0} {1}, QUIT!", FirstName, LastName);

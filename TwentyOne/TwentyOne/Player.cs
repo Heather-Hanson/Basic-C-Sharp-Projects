@@ -9,8 +9,19 @@ namespace TwentyOne
     public class Player
     {
         public List<Card> Hand { get; set; }
-        public int Baland { get; set; }
+        public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+
+        public static Game operator+ (Game game, Player player) // overload operators, public static Game (return type) operator+ (what we are adding together{Game = data type, game = var})
+        {
+            game.Players.Add(player);
+            return game;
+        }
+        public static Game operator- (Game game, Player player)
+        {
+            game.Players.Remove(player);
+            return game;
+        }
     }
 }

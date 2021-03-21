@@ -10,15 +10,19 @@ namespace InheritanceAssignment
     {
         static void Main(string[] args)
         {
-            // instantiate Employee class
-            Employee employee = new Employee();
+            // instantiate Employee objects
+            Employee employee = new Employee() { FirstName = "Heather", Id = 1234 };
+            Employee employee1 = new Employee() { FirstName = "Jesse", Id = 5678 };
 
-            // create values for employee first name and last name calling properites from inherited class: Person
-            employee.FirstName = "Sample";
-            employee.LastName = "Student";
+            // compare employees using == operator.  It will know to compare the ID of the employees when I do this
+            bool compare = employee == employee1;
+
+            // display result of comparison
+            Console.WriteLine("Heather's ID is {0}, Jesse's is {1}. Do they match? {2}", employee.Id, employee1.Id, compare);
+
 
             // call method from inherited class: Person
-            employee.SayName();
+            //employee.SayName();
             Console.ReadLine();
 
         }
