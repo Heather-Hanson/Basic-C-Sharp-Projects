@@ -10,11 +10,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
             Deck deck = new Deck();
             deck.Shuffle(3);
             //named paramaters would look like: Shuffle(deck: deck, times: 3).  Helps with reading.
 
-            foreach(Card card in deck.Cards)
+            foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }

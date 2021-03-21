@@ -1,0 +1,6 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb
