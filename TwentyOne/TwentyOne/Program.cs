@@ -10,12 +10,16 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
             //named paramaters would look like: Shuffle(deck: deck, times: 3).  Helps with reading.
 
             foreach (Card card in deck.Cards)
+
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
@@ -26,17 +30,19 @@ namespace TwentyOne
 
         
 
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
+
     }
 }
 
+
+//public static Deck Shuffle(Deck deck, int times)
+//{
+//    for (int i = 0; i < times; i++)
+//    {
+//        deck = Shuffle(deck);
+//    }
+//    return deck;
+//}
 // Camel case is preferred naming convention for var in C#
 // Deck and Card classes are the datatypes ex: Deck (datatype) deck (var) = new (instance) Deck(datatype)
 
@@ -56,3 +62,11 @@ namespace TwentyOne
 //deck.Cards.Add(cardOne);
 
 // Method overloading allows you to use methods of the same name multiple times as long as they are slightly different.
+
+// Polymorphism: Object TwentyOneGame can morph into a higher order object Game (because TwentyOneGame inherits from Game, Game is higher order)
+// another example for using polymorphism: creating a list of different type classes (Example, list of games, then add TwentyOneGame, Poker game, etc...
+// Syntax: 
+//List<Game> games = new List<Game>();
+//TwentyOneGame game = new TwentyOneGame();
+//games.Add(game);
+// Polymorphism: Ability of a class to morph into it's inheriting class to gain certain advantages.

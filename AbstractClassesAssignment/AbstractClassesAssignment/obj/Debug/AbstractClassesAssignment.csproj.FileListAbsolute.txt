@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.pdb

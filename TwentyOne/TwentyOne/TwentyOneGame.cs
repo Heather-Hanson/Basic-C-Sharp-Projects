@@ -8,9 +8,14 @@ namespace TwentyOne
 {
     public class TwentyOneGame : Game // using : you can set class to inherit
     {
-        public void Play()
+        public override void Play() // override keyword to allow us to have it undefined for now
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players");
+            base.ListPlayers();
         }
     }
 }
