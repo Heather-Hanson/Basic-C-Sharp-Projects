@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace InheritanceAssignment
 {
-    public class Employee : Person // Employee class will inherit from Person class.
+    public class Employee<T> : Person // Generic type paramater accepted
     {
         public int Id { get; set; }
+        public List<T> Things { get; set; } // property with generic list
+
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.pdb
