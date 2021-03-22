@@ -1,0 +1,6 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.pdb
