@@ -34,7 +34,7 @@ namespace EnumsAssignment
             }
             catch(Exception)
             {
-                Console.WriteLine("Something went wrong.  Please make sure your day is written such as: Monday, Tuesday, Wednesday etc...");
+                Console.WriteLine("Please enter an actual day of the week");
             }
             
             Console.ReadLine();
