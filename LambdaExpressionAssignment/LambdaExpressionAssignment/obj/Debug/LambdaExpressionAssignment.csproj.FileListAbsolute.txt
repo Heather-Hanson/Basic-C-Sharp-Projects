@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.pdb

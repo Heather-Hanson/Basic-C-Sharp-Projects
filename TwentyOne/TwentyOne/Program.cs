@@ -12,6 +12,7 @@ namespace TwentyOne
         {
 
             Deck deck = new Deck();
+
             deck.Shuffle(3);
             //named paramaters would look like: Shuffle(deck: deck, times: 3).  Helps with reading.
 
@@ -95,3 +96,29 @@ namespace TwentyOne
 // Value types can't have a value of null
 
 // by changing the Card class to a struct, the example above would print "Eight" to the console.
+
+// Lambda functions (ex.  Count).  Lambda operator =>. Exposes a List to a variety of different functions.
+// example: int count = deck.Cards.Count(x => x.Face == Face.Ace);
+// x is like a variable, it can be anything.
+
+// More Lambda examples:
+//-----------------------------------------------------------------------------------------------------
+//List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+//foreach(Card card in newList)
+//{
+//    Console.WriteLine(card.Face);
+
+//}
+//------------------------------------------------------------------------------------------------------
+//List<int> numberList = new List<int>() { 1, 2};
+//int sum = numberList.Sum(x => x + 5); //takes each item in the list and adds 5 before summing them all up
+
+//Console.WriteLine(sum);
+//------------------------------------------------------------------------------------------------------
+//List<int> numberList = new List<int>(){1,2,3, 21, 42};
+// int sum = numberList.Where(x => x > 20).Sum();
+// Console.WriteLine(sum);
+
+// Lambda reduce the amount of code and can be better than for loops
+// BUT lambda are hard to debug and really hard when you start chaining them together (also hard to read)
