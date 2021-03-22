@@ -10,6 +10,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
             Deck deck = new Deck();
             deck.Shuffle(3);
             //named paramaters would look like: Shuffle(deck: deck, times: 3).  Helps with reading.
@@ -61,3 +62,15 @@ namespace TwentyOne
 //TwentyOneGame game = new TwentyOneGame();
 //games.Add(game);
 // Polymorphism: Ability of a class to morph into it's inheriting class to gain certain advantages.
+
+//Enum is a data type.  Used to represent constant values.  
+// public enum DaysOfTheWeek
+//{
+//Monday,
+//Tuesday,
+//Wednesday etc..(no quotes needed.)
+//}
+//Enums can help avoid user input error. 
+//Intellisense helps when instantiating enums
+//You can cast an enum to another underlying datatype: int underlyingValue = (int)Suit.Diamonds; ==== this would display a value of 1 because of it's
+// position in the list (default starts at 0), but you can assign items specific numeric values as well (ex. Diamonds=10)

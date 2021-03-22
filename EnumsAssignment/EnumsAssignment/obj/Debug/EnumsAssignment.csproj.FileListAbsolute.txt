@@ -1,0 +1,7 @@
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe.config
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\EnumsAssignment.pdb
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.exe
+C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\EnumsAssignment.pdb
