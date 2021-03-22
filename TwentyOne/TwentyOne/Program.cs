@@ -74,3 +74,24 @@ namespace TwentyOne
 //Intellisense helps when instantiating enums
 //You can cast an enum to another underlying datatype: int underlyingValue = (int)Suit.Diamonds; ==== this would display a value of 1 because of it's
 // position in the list (default starts at 0), but you can assign items specific numeric values as well (ex. Diamonds=10)
+
+// Classes in C# operate by reference (real life exampe is the shared doc in Google)
+// ex: Card card1 = new Card();
+// Card card2 = card1;
+// card1.Face = Face.Eight;
+// card2.Face = Face.King;
+// When written to the console, the above would display card1 with a face of King because card2 references the memory where card1 is located and therefore overrides the initial
+// value of card1.
+
+// Any data type that stores value by reference is called a reference type and by rule of thumb that includes all classes as are Lists, Strings.
+
+// a Value type would be the example where the student sent a COPY of the essay via email.
+// Built in value types are: int, bool, enum, datetime
+
+// string is an alias for the class String
+// int is an alias for the struct Int32
+
+// Simply, a struct is a Class that is value type.  Can't be inherited.
+// Value types can't have a value of null
+
+// by changing the Card class to a struct, the example above would print "Eight" to the console.
