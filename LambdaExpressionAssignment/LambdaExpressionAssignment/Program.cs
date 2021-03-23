@@ -34,17 +34,24 @@ namespace LambdaExpressionAssignment
             }
 
             // Create new list of employees named Joe, but using Lambda
-            foreach (Employee employee in employees.Where(n => n.FirstName == "Joe"))
-            { 
-                 List<Employee> joe2 = new List<Employee>();
-                 Console.WriteLine(employee.FirstName + " " + employee.LastName + " " + employee.Id);              
+
+            List<Employee> joe2 = employees.Where(n => n.FirstName == "Joe").ToList();
+            Console.WriteLine("\nThere are {0} employees named Joe. They are: ", joe2.Count);
+
+            foreach (Employee joe in joe2)
+            {
+                Console.WriteLine(joe.FirstName + " " + joe.LastName);
+
             }
 
+
             // Create new list of employee Ids less than 5
-            foreach(Employee employee in employees.Where(n => n.Id > 5))
+            List<Employee> ids = employees.Where(n => n.Id > 5).ToList();
+            Console.WriteLine("\nThere are {0} employee Ids that are greater than 5.  They are: ", ids.Count);
+            foreach (Employee id in ids)
             {
-                List<Employee> ids = new List<Employee>();
-                Console.WriteLine(employee.Id);
+                Console.WriteLine(id.FirstName + " " + id.LastName + " " + id.Id);
+
             }
 
             Console.ReadLine();
@@ -52,6 +59,3 @@ namespace LambdaExpressionAssignment
     }
 }
 
-//List<int> numberList = new List<int>(){1,2,3, 21, 42};
-// int sum = numberList.Where(x => x > 20).Sum();
-// Console.WriteLine(sum);
