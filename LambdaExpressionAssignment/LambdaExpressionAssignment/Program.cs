@@ -31,9 +31,9 @@ namespace LambdaExpressionAssignment
                     List<Employee> joe1 = new List<Employee>();
                     joe1.Add(employee);
 
-                    foreach (Employee joe in joe1)
+                    foreach (Employee joe0 in joe1)
                     {
-                        Console.WriteLine(joe.FirstName + " " + joe.LastName + " " + joe.Id);
+                        Console.WriteLine(joe0.FirstName + " " + joe0.LastName + " " + joe0.Id);
 
                     }
                 }
