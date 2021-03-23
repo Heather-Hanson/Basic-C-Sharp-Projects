@@ -29,7 +29,13 @@ namespace LambdaExpressionAssignment
                 if(employee.FirstName == "Joe")
                 {
                     List<Employee> joe1 = new List<Employee>();
-                    Console.WriteLine(employee.FirstName + " " + employee.LastName + " " + employee.Id);
+                    joe1.Add(employee);
+
+                    foreach (Employee joe in joe1)
+                    {
+                        Console.WriteLine(joe.FirstName + " " + joe.LastName + " " + joe.Id);
+
+                    }
                 }
             }
 
