@@ -1,0 +1,15 @@
+Here is some text.Two of Hearts
+
+Two of Spades
+
+Three of Diamonds
+
+Four of Spades
+
+Two of Clubs
+
+Eight of Spades
+
+Eight of Hearts
+
+5
