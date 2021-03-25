@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -11,7 +13,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            const string casinoName = "Grand Hotel and Casino";
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -20,6 +24,11 @@ namespace TwentyOne
             if(answer == "yes"|| answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Heather\source\repos\Heather-Hanson\Basic-C-Sharp-Projects\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
@@ -133,3 +142,13 @@ namespace TwentyOne
 // BUT lambda are hard to debug and really hard when you start chaining them together (also hard to read)
 
 //named paramaters would look like: Shuffle(deck: deck, times: 3).  Helps with reading.
+
+//When you make chanegs to your library you need to build the library again for changes to be available in your program.
+
+// You can use var instead of the datatypes now.  (ex: string name = "Heather" could be var name = "Heather") However, in some cases defining the data type can help with readability.
+
+// Constants - once the program is compiled it doesn't change.
+// const string casinoName = "Grand Hotel and Casino";
+
+//Guid = Global Unique Identifier
+
