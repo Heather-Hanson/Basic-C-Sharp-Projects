@@ -19,7 +19,8 @@ namespace ExceptionHandlingAssignment
                     Console.WriteLine("Please enter the age you will be turning (or have turned) this year.");
                     validAnswer = int.TryParse(Console.ReadLine(), out age);
                     if (!validAnswer) throw new Exception();
-                    if (age < 0) throw new ExceptionHandling();
+                    if (age <= 0) throw new ExceptionHandling();
+
                 }
                 DateTime birthYear = DateTime.Now.AddYears(-age);
                 Console.WriteLine("The year you were born was: {0}", birthYear.Year);
@@ -28,7 +29,7 @@ namespace ExceptionHandlingAssignment
             }
             catch (ExceptionHandling)
             {
-                Console.WriteLine("Please make sure you write a positive whole number (no decimals or fractions)");
+                Console.WriteLine("Your age should be greater than zero!");
                 Console.ReadLine();
                 return;
             }
