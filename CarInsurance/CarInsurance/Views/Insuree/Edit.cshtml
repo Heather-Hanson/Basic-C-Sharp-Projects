@@ -1,0 +1,90 @@
+﻿@model CarInsurance.Models.Insuree
+
+@{
+  ViewBag.Title = "Edit";
+}
+
+<h2>Edit Insuree</h2>
+<hr />
+
+@using (Html.BeginForm())
+{
+  @Html.AntiForgeryToken()
+
+  <div class="form-group row">
+
+    <label class="col-form-label col-sm-2">First Name</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+
+    </div>
+
+  </div>
+
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Last Name</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Email Address</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.EmailAddress, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Date Of Birth</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.DateOfBirth, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Car Year</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.CarYear, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Car Make</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.CarMake, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Car Model</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.CarModel, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">DUI</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.DUI, new { htmlAttributes = new { @class = "form-check-input" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Speeding Tickets</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.SpeedingTickets, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Full Coverage</label>
+    <div class="col-sm-10">
+      @Html.EditorFor(model => model.CoverageType, new { htmlAttributes = new { @class = "form-check-input" } })
+    </div>
+  </div>
+  <br />
+  <div>
+    <button class="btn btn-primary" type="submit">Save</button> 
+  </div>
+
+}
+
+@section Scripts {
+  @Scripts.Render("~/bundles/jqueryval")
+}
+
+
