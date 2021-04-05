@@ -104,7 +104,7 @@ namespace CarInsurance.Controllers
         public ActionResult Quote(int? id)
         {
             Insuree insuree = db.Insurees.Find(id);
-            Quote quote = new Quote();
+            QuoteVm quote = new QuoteVm();
             quote.Id = insuree.Id;
             quote.FirstName = insuree.FirstName;
             quote.LastName = insuree.LastName;

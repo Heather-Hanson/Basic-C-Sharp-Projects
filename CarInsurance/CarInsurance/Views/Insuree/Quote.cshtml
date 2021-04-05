@@ -1,4 +1,4 @@
-﻿@model CarInsurance.View_Models.Quote
+﻿@model CarInsurance.View_Models.QuoteVm
 
 @{
     ViewBag.Title = "Quote";
@@ -128,12 +128,16 @@
               <dd>
                 $@Html.DisplayFor(model => model.quoteDUI)
               </dd>
+              @if (Model.CoverageType)
+              {
                 <dt>
                   Full Coverage
                 </dt>
                 <dd>
                   $@Html.DisplayFor(model => model.quoteCoverage)
                 </dd>
+              }
+
 
               <dt style="font-size: 2rem;">
                 Quote Total
